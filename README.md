@@ -10,3 +10,6 @@ I feel that sometimes you need to reinvent the wheel and that is my motivation t
 [RapidVault](https://github.com/krisluczka/RapidVault) is a relational database system that abandons the statically typed columns.
 ### Open Source Search Engine
 [OSSE](https://github.com/krisluczka/OSSE) is a search engine with built-in site indexing and web crawler.
+
+## If you want to 😎
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/krisluczka)
