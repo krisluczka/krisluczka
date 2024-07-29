@@ -6,6 +6,8 @@ I'm Krzysztof a 20 years old C++ developer from Poland. Currently looking for a 
 At the time I am working on a few projects - main goals of them are to learn how do specific things work.
 To understand why some solutions have been used, you need to encounter the same problems as the developers
 I feel that sometimes you need to reinvent the wheel and that is my motivation to develop these.
+### scrapium.h
+[scrapium.h](https://github.com/krisluczka/scrapium.h) is a simple, light and fast C++ webscraping library.
 ### RapidVault
 [RapidVault](https://github.com/krisluczka/RapidVault) is a relational database system that abandons the statically typed columns.
 ### Open Source Search Engine
