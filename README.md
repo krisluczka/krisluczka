@@ -1,5 +1,5 @@
 ## Hi 👋
-I'm Krzysztof a 20 years old C++ developer from Poland. Currently looking for a job.
+I'm Krzysztof a 22 years old C++/R developer from Poland.
 
 ![krisluczka's Stats](https://github-readme-stats.vercel.app/api?username=krisluczka&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ## Small showcase of the big projects
